@@ -1,6 +1,7 @@
 <h1 align="Left">Hi 👋, I'm Nelvin Velazco</h1>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
+
 ## About me
 - 🏠 I'm from Venezuela <img alt="venezuela" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ve.png"/>
 - 🎓 I recently finished a Data Science boot camp at [soyhenry.com](https://www.soyhenry.com/)
