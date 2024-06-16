@@ -37,4 +37,5 @@
 	<a href="https://www.facebook.com/nelvinvelazco"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="https://x.com/@nelvinvelazco"><img src="https://img.shields.io/badge/X-%23181717.svg?style=plastic&logo=x&logoColor=black" alt="Snap Chat"/></a>
 </p>
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=nelvinvelazco&theme=dark&show_icons=true&count_private=true" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nelvinvelazco&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" />
