@@ -8,7 +8,6 @@
 - 🎓 I have a degree in Computer Systems Administrator at [um.edu.mx](https://www.um.edu.mx/)
 - ☁️ I am passionate about data and cloud technologies.
 - ⚡ Fun fact: I like to watch NBA, UFC, boxing and play poker.
-- 📫 Contact me nelvinvelazco@gmail.com
 
 ## Technologies That I Know
 <p>
